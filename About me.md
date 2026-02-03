@@ -2,7 +2,7 @@
 We are  a team of Aspiring Data Analyst
 
 ## Short introduction 
-Team PRISM is a group of hardworking and focued people aspiring to become data analyst and habe come under the same umbrella known as Skill to Career to aquire the necessary skills.
+Team PRISM is a group of hardworking and focused people aspiring to become data analyst and had come together under the same umbrella known as Skill to Career to acquire the necessary skills.
 
 ## Soft skills
 - Good communication
@@ -14,7 +14,7 @@ Team PRISM is a group of hardworking and focued people aspiring to become data a
 - Google sheets
 - Excel
 - SQL
-- DATA CLEANING
+- Data cleaning 
 
 ## Career goals
 We as team PRISM aim at becoming the best data analyst, land big jobs and further to become business analyst.
